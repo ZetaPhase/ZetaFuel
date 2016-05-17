@@ -1,5 +1,5 @@
 # ZetaFuel
-Web based, intelligent and clean car fuel app built using the Shiny Library in the R Language.
+Web based app to locate car fuel really fast!
 
 
 
